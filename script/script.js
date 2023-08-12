@@ -139,6 +139,3 @@ document.addEventListener('keydown', function (event) {
     }
   }
 });
-// // end of game, show score
-// // save score to leaderboard
-// // play again
