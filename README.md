@@ -7,10 +7,10 @@ This is just a simple Hangman clone I created using mostly JavaScript. Click the
 
 ## Usage
 
+***Best ran on a full-screen*** 
+<br>
+<br>
 I mean... it's Hangman. The game uses different JavaScript objects, variables, etc. as the possible solutions. Good luck! 
-<br>
-<br>
-***Best ran on a full-screen*** as the project is not yet responsive to varying viewport sizes.
 
 
 ## Support
