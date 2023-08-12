@@ -79,7 +79,7 @@ function gameTimer() {
 
     wordDisplayEl.innerHTML = `YOU SUCK LOSER.<br>Score: ${score}`;
   }
-  }, 100);
+  }, 1000);
 }
 
 function endGame() {
@@ -139,16 +139,6 @@ document.addEventListener('keydown', function (event) {
     }
   }
 });
-
-
-
-// // x run game start function to begin game
-// // x when timer reaches 0, choose random word
-// // x begin 60 timer
-// // x random word should have _ _ _ not characters
-// // when key is pressed, checks for match of random word
-// // if is included, write on viewport
-// // if not, 'wrong, try again'
 // // end of game, show score
 // // save score to leaderboard
 // // play again
