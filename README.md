@@ -1,4 +1,4 @@
-# Scriptman - A Hangman clone
+# Scriptman - A Hangman Clone
 
 Welcome to **Scriptman**, a stylish Hangman clone crafted predominantly with JavaScript. Experience the classic word-guessing game by clicking the 'Start Game' button and using your keyboard to input letters. Each correct guess adds a point to your score.
 
